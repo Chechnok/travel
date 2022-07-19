@@ -50,7 +50,7 @@
 #highlights {
   padding: 24px;
   /* background-color: rgb(227, 255, 253); */
-  background: linear-gradient(0deg, rgb(227, 255, 253) , rgb(60, 160, 153));
+  background: linear-gradient(0deg, rgb(227, 255, 253) , rgb(54, 192, 183));
 }
 
 #highlights h2 {
@@ -58,14 +58,14 @@
   text-align: center;
   font-size: 40px;
   color: rgb(59, 65, 64);
-  margin: 24px 0;
+  margin: 24px 0 36px 0;
 }
 
 #destinations {
   display: flex;
   width: 90%;
   margin: auto;
-  margin-bottom: 100px;
+  margin-bottom: 150px;
   justify-content: center;
 }
 
