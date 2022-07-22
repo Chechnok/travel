@@ -20,7 +20,7 @@ header a {
   color: rgb(59, 59, 59);
 }
 
-header nav a:hover {
+header a:hover {
   background-color: rgb(183, 230, 235);
   color: rgb(59, 59, 59);
 }
